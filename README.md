@@ -10,7 +10,7 @@ Analysis code and data for the paper:
 
 ## Overview
 
-PHOLUS is a natural language advisor built on top of [Cicero](https://github.com/facebookresearch/diplomacy_cicero), a superhuman Diplomacy-playing AI. Unlike Cicero, which plays the game directly, PHOLUS passively observes the game and provides **move advice** and **message advice** to human players in real time. This repository contains the analysis code and collected data from a user study with 12 Diplomacy games, 41 players, 1,070 player turns, and 117 playing hours.
+PHOLUS is a natural language advisor built on top of [Cicero](https://github.com/ALLAN-DIP/diplomacy_cicero/), a superhuman Diplomacy-playing AI. Unlike Cicero, which plays the game directly, PHOLUS passively observes the game and provides **move advice** and **message advice** to human players in real time. This repository contains the analysis code and collected data from a user study with 12 Diplomacy games, 41 players, 1,070 player turns, and 117 playing hours.
 
 ### Key Findings
 

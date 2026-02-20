@@ -1,0 +1,479 @@
+{
+  "Centaur5": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "3",
+    "FRANCE": "Cicero",
+    "GERMANY": "Cicero",
+    "ITALY": "4",
+    "RUSSIA": "Cicero",
+    "TURKEY": "5"
+  },
+  "Centaur10": {
+    "AUSTRIA": "4",
+    "ENGLAND": "Cicero",
+    "FRANCE": "Cicero",
+    "GERMANY": "Cicero",
+    "ITALY": "1",
+    "RUSSIA": "Cicero",
+    "TURKEY": "4"
+  },
+  "Centaur9": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "Cicero",
+    "FRANCE": "1",
+    "GERMANY": "4",
+    "ITALY": "3",
+    "RUSSIA": "4",
+    "TURKEY": "1"
+  },
+  "Centaur8": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "Cicero",
+    "FRANCE": "Cicero",
+    "GERMANY": "4",
+    "ITALY": "3",
+    "RUSSIA": "1",
+    "TURKEY": "4"
+  },
+  "Centaur4": {
+    "AUSTRIA": "5",
+    "ENGLAND": "Cicero",
+    "FRANCE": "Cicero",
+    "GERMANY": "4",
+    "ITALY": "4",
+    "RUSSIA": "Cicero",
+    "TURKEY": "3"
+  },
+  "Centaur11": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "1",
+    "FRANCE": "4",
+    "GERMANY": "4",
+    "ITALY": "Cicero",
+    "RUSSIA": "5",
+    "TURKEY": "Cicero"
+  },
+  "Centaur3": {
+    "AUSTRIA": "3",
+    "ENGLAND": "5",
+    "FRANCE": "Cicero",
+    "GERMANY": "Cicero",
+    "ITALY": "Cicero",
+    "RUSSIA": "Cicero",
+    "TURKEY": "4"
+  },
+  "Centaur2": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "Cicero",
+    "FRANCE": "4",
+    "GERMANY": "5",
+    "ITALY": "Cicero",
+    "RUSSIA": "3",
+    "TURKEY": "Cicero"
+  },
+  "Centaur1": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "Cicero",
+    "FRANCE": "4",
+    "GERMANY": "Cicero",
+    "ITALY": "4",
+    "RUSSIA": "3",
+    "TURKEY": "Cicero"
+  },
+  "Centaur0": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "Cicero",
+    "FRANCE": "5",
+    "GERMANY": "Cicero",
+    "ITALY": "Cicero",
+    "RUSSIA": "4",
+    "TURKEY": "Cicero"
+  },
+  "Centaur7": {
+    "AUSTRIA": "4",
+    "ENGLAND": "4",
+    "FRANCE": "Cicero",
+    "GERMANY": "Cicero",
+    "ITALY": "Cicero",
+    "RUSSIA": "Cicero",
+    "TURKEY": "Cicero"
+  },
+  "Centaur6": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "4",
+    "FRANCE": "Cicero",
+    "GERMANY": "3",
+    "ITALY": "5",
+    "RUSSIA": "Cicero",
+    "TURKEY": "Cicero"
+  },
+  "CiceroAlbert3": {
+    "AUSTRIA": "Albert",
+    "ENGLAND": "4",
+    "FRANCE": "Albert",
+    "GERMANY": "Cicero",
+    "ITALY": "Albert",
+    "RUSSIA": "1",
+    "TURKEY": "Cicero"
+  },
+  "CiceroAlbert12": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "3",
+    "FRANCE": "2",
+    "GERMANY": "1",
+    "ITALY": "4",
+    "RUSSIA": "Cicero",
+    "TURKEY": "5"
+  },
+  "CiceroAlbert13": {
+    "AUSTRIA": "3",
+    "ENGLAND": "1",
+    "FRANCE": "1",
+    "GERMANY": "4",
+    "ITALY": "3",
+    "RUSSIA": "2",
+    "TURKEY": "3"
+  },
+  "CiceroAlbert2": {
+    "AUSTRIA": "2",
+    "ENGLAND": "1",
+    "FRANCE": "3",
+    "GERMANY": "Cicero",
+    "ITALY": "3",
+    "RUSSIA": "4",
+    "TURKEY": "1"
+  },
+  "CiceroAlbert14": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "Albert",
+    "FRANCE": "5",
+    "GERMANY": "3",
+    "ITALY": "1",
+    "RUSSIA": "3",
+    "TURKEY": "1"
+  },
+  "CiceroAlbert9": {
+    "AUSTRIA": "3",
+    "ENGLAND": "3",
+    "FRANCE": "Cicero",
+    "GERMANY": "4",
+    "ITALY": "5",
+    "RUSSIA": "1",
+    "TURKEY": "2"
+  },
+  "CiceroAlbert5": {
+    "AUSTRIA": "4",
+    "ENGLAND": "3",
+    "FRANCE": "Cicero",
+    "GERMANY": "4",
+    "ITALY": "2",
+    "RUSSIA": "Albert",
+    "TURKEY": "1"
+  },
+  "CiceroAlbert4": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "2",
+    "FRANCE": "3",
+    "GERMANY": "Albert",
+    "ITALY": "5",
+    "RUSSIA": "Albert",
+    "TURKEY": "4"
+  },
+  "CiceroAlbert8": {
+    "AUSTRIA": "Albert",
+    "ENGLAND": "Cicero",
+    "FRANCE": "2",
+    "GERMANY": "5",
+    "ITALY": "3",
+    "RUSSIA": "4",
+    "TURKEY": "1"
+  },
+  "CiceroAlbert15": {
+    "AUSTRIA": "2",
+    "ENGLAND": "3",
+    "FRANCE": "1",
+    "GERMANY": "1",
+    "ITALY": "Cicero",
+    "RUSSIA": "5",
+    "TURKEY": "Albert"
+  },
+  "CiceroAlbert16": {
+    "AUSTRIA": "5",
+    "ENGLAND": "2",
+    "FRANCE": "3",
+    "GERMANY": "Albert",
+    "ITALY": "Cicero",
+    "RUSSIA": "1",
+    "TURKEY": "3"
+  },
+  "CiceroAlbert7": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "Albert",
+    "FRANCE": "Cicero",
+    "GERMANY": "3",
+    "ITALY": "4",
+    "RUSSIA": "3",
+    "TURKEY": "5"
+  },
+  "CiceroAlbert6": {
+    "AUSTRIA": "Albert",
+    "ENGLAND": "5",
+    "FRANCE": "5",
+    "GERMANY": "3",
+    "ITALY": "Cicero",
+    "RUSSIA": "2",
+    "TURKEY": "3"
+  },
+  "CiceroAlbert17": {
+    "AUSTRIA": "2",
+    "ENGLAND": "3",
+    "FRANCE": "5",
+    "GERMANY": "3",
+    "ITALY": "5",
+    "RUSSIA": "3",
+    "TURKEY": "1"
+  },
+  "CiceroAlbert1": {
+    "AUSTRIA": "5",
+    "ENGLAND": "1",
+    "FRANCE": "Cicero",
+    "GERMANY": "3",
+    "ITALY": "4",
+    "RUSSIA": "5",
+    "TURKEY": "Cicero"
+  },
+  "CiceroAlbert10": {
+    "AUSTRIA": "3",
+    "ENGLAND": "4",
+    "FRANCE": "1",
+    "GERMANY": "2",
+    "ITALY": "Albert",
+    "RUSSIA": "1",
+    "TURKEY": "Cicero"
+  },
+  "CiceroAlbert11": {
+    "AUSTRIA": "1",
+    "ENGLAND": "1",
+    "FRANCE": "3",
+    "GERMANY": "5",
+    "ITALY": "2",
+    "RUSSIA": "1",
+    "TURKEY": "3"
+  },
+  "AIGame_11": {
+    "AUSTRIA": "5",
+    "ENGLAND": "Cicero",
+    "FRANCE": "5",
+    "GERMANY": "5",
+    "ITALY": "4",
+    "RUSSIA": "Cicero",
+    "TURKEY": "Cicero"
+  },
+  "AIGame_7": {
+    "AUSTRIA": "4",
+    "ENGLAND": "Cicero",
+    "FRANCE": "5",
+    "GERMANY": "5",
+    "ITALY": "Cicero",
+    "RUSSIA": "Cicero",
+    "TURKEY": "Cicero"
+  },
+  "AIGame_6": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "Cicero",
+    "FRANCE": "Cicero",
+    "GERMANY": "Cicero",
+    "ITALY": "Cicero",
+    "RUSSIA": "5",
+    "TURKEY": "4"
+  },
+  "AIGame_10": {
+    "AUSTRIA": "4",
+    "ENGLAND": "Cicero",
+    "FRANCE": "Cicero",
+    "GERMANY": "4",
+    "ITALY": "4",
+    "RUSSIA": "Cicero",
+    "TURKEY": "Cicero"
+  },
+  "AIGame_17": {
+    "AUSTRIA": "2",
+    "ENGLAND": "Cicero",
+    "FRANCE": "5",
+    "GERMANY": "3",
+    "ITALY": "3",
+    "RUSSIA": "Cicero",
+    "TURKEY": "Cicero"
+  },
+  "AIGame_1": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "Cicero",
+    "FRANCE": "4",
+    "GERMANY": "Cicero",
+    "ITALY": "Cicero",
+    "RUSSIA": "5",
+    "TURKEY": "3"
+  },
+  "AIGame_21": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "3",
+    "FRANCE": "Cicero",
+    "GERMANY": "Cicero",
+    "ITALY": "5",
+    "RUSSIA": "Cicero",
+    "TURKEY": "Cicero"
+  },
+  "AIGame_20": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "3",
+    "FRANCE": "Cicero",
+    "GERMANY": "Cicero",
+    "ITALY": "Cicero",
+    "RUSSIA": "5",
+    "TURKEY": "5"
+  },
+  "AIGame_0": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "Cicero",
+    "FRANCE": "5",
+    "GERMANY": "3",
+    "ITALY": "Cicero",
+    "RUSSIA": "Cicero",
+    "TURKEY": "Cicero"
+  },
+  "AIGame_16": {
+    "AUSTRIA": "3",
+    "ENGLAND": "Cicero",
+    "FRANCE": "Cicero",
+    "GERMANY": "Cicero",
+    "ITALY": "Cicero",
+    "RUSSIA": "Cicero",
+    "TURKEY": "2"
+  },
+  "AIGame_3": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "Cicero",
+    "FRANCE": "3",
+    "GERMANY": "Cicero",
+    "ITALY": "Cicero",
+    "RUSSIA": "3",
+    "TURKEY": "5"
+  },
+  "AIGame_15": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "Cicero",
+    "FRANCE": "4",
+    "GERMANY": "5",
+    "ITALY": "Cicero",
+    "RUSSIA": "Cicero",
+    "TURKEY": "Cicero"
+  },
+  "AIGame_23": {
+    "AUSTRIA": "4",
+    "ENGLAND": "3",
+    "FRANCE": "Cicero",
+    "GERMANY": "Cicero",
+    "ITALY": "3",
+    "RUSSIA": "5",
+    "TURKEY": "Cicero"
+  },
+  "AIGame_19": {
+    "AUSTRIA": "4",
+    "ENGLAND": "Cicero",
+    "FRANCE": "Cicero",
+    "GERMANY": "Cicero",
+    "ITALY": "5",
+    "RUSSIA": "Cicero",
+    "TURKEY": "2"
+  },
+  "AIGame_18": {
+    "AUSTRIA": "3",
+    "ENGLAND": "Cicero",
+    "FRANCE": "Cicero",
+    "GERMANY": "3",
+    "ITALY": "Cicero",
+    "RUSSIA": "Cicero",
+    "TURKEY": "Cicero"
+  },
+  "AIGame_22": {
+    "AUSTRIA": "3",
+    "ENGLAND": "5",
+    "FRANCE": "Cicero",
+    "GERMANY": "Cicero",
+    "ITALY": "Cicero",
+    "RUSSIA": "4",
+    "TURKEY": "Cicero"
+  },
+  "AIGame_14": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "Cicero",
+    "FRANCE": "Cicero",
+    "GERMANY": "Cicero",
+    "ITALY": "Cicero",
+    "RUSSIA": "5",
+    "TURKEY": "4"
+  },
+  "AIGame_2": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "Cicero",
+    "FRANCE": "5",
+    "GERMANY": "Cicero",
+    "ITALY": "Cicero",
+    "RUSSIA": "4",
+    "TURKEY": "5"
+  },
+  "AIGame_9": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "Cicero",
+    "FRANCE": "4",
+    "GERMANY": "5",
+    "ITALY": "3",
+    "RUSSIA": "Cicero",
+    "TURKEY": "4"
+  },
+  "AIGame_5": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "3",
+    "FRANCE": "4",
+    "GERMANY": "Cicero",
+    "ITALY": "Cicero",
+    "RUSSIA": "Cicero",
+    "TURKEY": "5"
+  },
+  "AIGame_13": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "Cicero",
+    "FRANCE": "3",
+    "GERMANY": "5",
+    "ITALY": "Cicero",
+    "RUSSIA": "Cicero",
+    "TURKEY": "5"
+  },
+  "AIGame_12": {
+    "AUSTRIA": "3",
+    "ENGLAND": "Cicero",
+    "FRANCE": "4",
+    "GERMANY": "4",
+    "ITALY": "5",
+    "RUSSIA": "Cicero",
+    "TURKEY": "Cicero"
+  },
+  "AIGame_4": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "Cicero",
+    "FRANCE": "4",
+    "GERMANY": "Cicero",
+    "ITALY": "Cicero",
+    "RUSSIA": "4",
+    "TURKEY": "3"
+  },
+  "AIGame_8": {
+    "AUSTRIA": "Cicero",
+    "ENGLAND": "Cicero",
+    "FRANCE": "5",
+    "GERMANY": "4",
+    "ITALY": "Cicero",
+    "RUSSIA": "Cicero",
+    "TURKEY": "Cicero"
+  }
+}
